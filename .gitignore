@@ -1,0 +1,13 @@
+# notebook checkpoints 
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+# readme backup
+README.md.backup
+
+# test notebooks
+Others/
+
+# data
+train.csv
+test.csv
